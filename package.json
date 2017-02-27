@@ -1,0 +1,22 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "学习gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weixian5/gulp-test.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "weixian5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weixian5/gulp-test/issues"
+  },
+  "homepage": "https://github.com/weixian5/gulp-test#readme"
+}
