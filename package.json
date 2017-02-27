@@ -1,22 +1,23 @@
 {
-  "name": "gulp-test",
+  "name": "gulp-demo",
   "version": "1.0.0",
-  "description": "学习gulp",
-  "main": "gulpfile.js",
+  "description": "gulp 示例",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/weixian5/gulp-test.git"
+    "url": "git+ssh://git@github.com/weixian5/gulp-demo.git"
   },
   "keywords": [
-    "gulp"
+    "gulp",
+    "gulp-demo"
   ],
   "author": "weixian5",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/weixian5/gulp-test/issues"
+    "url": "https://github.com/weixian5/gulp-demo/issues"
   },
-  "homepage": "https://github.com/weixian5/gulp-test#readme"
+  "homepage": "https://github.com/weixian5/gulp-demo#readme"
 }
